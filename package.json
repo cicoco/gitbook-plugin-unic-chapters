@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-unic-chapters",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Toggle Chapters on GitBook",
   "main": "index.js",
   "engines": {
